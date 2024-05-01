@@ -29,6 +29,14 @@ You can install the required packages using pip:
 
 This application requires an active internet connection to fetch weather data from the OpenWeatherMap API.
 
+## Installation
+To install and use the GUI Application Installer in Linux with Bug Finder, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/TEFLX/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG.git`
+2. Navigate to the project directory: `cd Sanp_craft_nexus/Login Installer`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Run the application: `python finalloginUi4.py`
+
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.

@@ -40,10 +40,12 @@ To install and use the GUI Application Installer in Linux with Bug Finder, follo
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute to this project.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 ## Image
 ![Capture2](https://github.com/TEFLX03/Weather_forecast-minor-project-/assets/164298793/42578c96-7fd8-4a62-8f5f-1910391d950e)

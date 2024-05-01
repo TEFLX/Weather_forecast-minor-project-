@@ -32,10 +32,10 @@ This application requires an active internet connection to fetch weather data fr
 ## Installation
 To install and use the GUI Application Installer in Linux with Bug Finder, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/TEFLX/LINUX-APPLICATION-GUI-INSTALLER-WITH-TERMINAL-LOG.git`
-2. Navigate to the project directory: `cd Sanp_craft_nexus/Login Installer`
+1. Clone the repository: `git clone https://github.com/TEFLX/Weather_forecast-minor-project-.gitt`
+2. Navigate to the project directory: `cd Weather_forecast`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the application: `python finalloginUi4.py`
+4. Run the application: `python weather_app.py`
 
 ## Contributing
 
